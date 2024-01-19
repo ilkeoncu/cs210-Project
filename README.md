@@ -9,7 +9,7 @@ The aim of the first part of the project is to analyze 2 different playlists fro
 
 The aim of the second part of the project is to add sum spice to the analysis :) Since I listen the songs I like repeatedly, I wanted to see my music taste covering all the months in both of the playlists that are analyzed in the first part (April-January). As an extra, at the end, I use a recommendation system using Spotify API to recommend me songs from my favourite songs' tracks. The analysis in this part includes collecting data & data cleaning, exploratory data analysis (EDA), interactive visualizations, unsupervised learning, Spotify API recommendation.
 
-## Data Source 
+## Data Source 🔑
+I used my own data from three of my Spotify playlists: “Erasmus Times” playlist when I was in Germany (April-September), “After Erasmus” playlist after my return to Istanbul (September-January) and the collective playlist named “All in All”. Data from the playlists were stored in separate csv files which were obtained from a Spotify playlist analyzer website. Weather data was obtained from a historical weather API website.
 
-
-## Findings & Comments
+## Findings & Comments 🔎
