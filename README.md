@@ -14,9 +14,6 @@ I used my own data from three of my Spotify playlists: “Erasmus Times” playl
 
 ## Findings & Comments 🔎
 1.Knowing the parts of the puzzle is good, but it is better when you have the whole picture, and “data” can help you with that :) It may be about your music taste or other things.
-
 2.Weather conditions and where you live may have an effect on your listening habits (still, don’t ignore the other outside factors).
-
 3.Many more things to say, but better to look at the data. It never lies (okay, maybe sometimes it does).
-
 4.Hope you might find some useful code from my project to also analyze your playlists :)
