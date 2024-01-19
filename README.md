@@ -13,7 +13,7 @@ The aim of the second part of the project is to add sum spice to the analysis :)
 I used my own data from three of my Spotify playlists: “Erasmus Times” playlist when I was in Germany (April-September), “After Erasmus” playlist after my return to Istanbul (September-January) and the collective playlist named “All in All”. Data from the playlists were stored in separate csv files which were obtained from a Spotify playlist analyzer website. Weather data was obtained from a historical weather API website.
 
 ## Findings & Comments 🔎
-Knowing the parts of the puzzle is good, but it is better when you have the whole picture, and “data” can help you with that :) It may be about your music taste or other things.
-Weather conditions and where you live may have an effect on your listening habits (still, don’t ignore the other outside factors).
-Many more things to say, but better to look at the data. It never lies (okay, maybe sometimes it does).
-Hope you might find some useful code from my project to also analyze your playlists :)
+1.Knowing the parts of the puzzle is good, but it is better when you have the whole picture, and “data” can help you with that :) It may be about your music taste or other things.
+2.Weather conditions and where you live may have an effect on your listening habits (still, don’t ignore the other outside factors).
+3.Many more things to say, but better to look at the data. It never lies (okay, maybe sometimes it does).
+4.Hope you might find some useful code from my project to also analyze your playlists :)
